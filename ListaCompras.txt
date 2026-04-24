@@ -1,0 +1,7 @@
+Lista compras:
+
+1.Jabon
+2.Shampoo
+3.Frutas
+4.Verduras
+5.Herramientas
